@@ -1,4 +1,4 @@
-#Android的Graphics类绘制图形 (below chart)
+#Android的Graphics类绘制图形 (Canvas Paint Path)
 #（下面有效果图）
 
 
