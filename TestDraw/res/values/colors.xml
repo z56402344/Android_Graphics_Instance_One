@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="font_color_y">#ff7d00</color>
+    <color name="font_color_b">#515151</color>
+    <color name="cm_title_tv_yellow">#FFA656</color>
+    <color name="cm_title_tv_gray">#B3A19D</color>
+
+    <!-- Dialog相关 -->
+    <color name="text_color">#FFFFFF</color>
+    <color name="divider_color">#11000000</color>
+    <color name="msg_color">#FFFFFFFF</color>
+    <color name="dialog_bg">#FFFFFFFF</color>
+    <color name="title_bg">#22FFFFFF</color>
+    
+
+    <color name="btn_press_color">#FFa5281b</color>
+    <color name="btn_unpress_color">#FFc0392b</color>
+    
+    
+    <color name="btn_classroom_color01">#FFFF7d00</color>
+    <color name="btn_classroom_color02">#88FF7d00</color>
+    
+    <color name="btn_send_msg_press">#F2F2F2</color>
+    <color name="btn_send_msg_normal">#FFFAFAFA</color>
+    
+    <color name="btn_close_press">#9D9D9D</color>
+    <color name="btn_close_normal">#d0d0d0</color>
+    
+     <!--  字体主色  -->
+     <color name="main_word_color">#333333</color>
+     <color name="main_wordgray_color">#828282</color>
+     <color name="main_word_lightGray">#c5c5c5</color>
+     <color name="main_word_lightRed">#ff6262</color>
+     
+     <color name="main_brown_color">#cccdcf</color>
+     <color name="main_yellow_color">#ff8121</color>
+     <color name="main_wordyellow_color">#ff8200</color>
+     <color name="word_text_hide_delete">#9f9f9f</color>
+     <color name="word_text">#a9a9a9</color>
+     
+     <!-- 间隙线color -->
+     <color name="main_line_color">#cccdcf</color>
+     <!--主灰背景色  -->
+     <color name="main_graybg_color">#e3e4e6</color>
+     <color name="tabbar_color">#F8F8F8</color>
+     
+     
+    <!-- 白色 -->
+    <color name="white">#FFFFFF</color>
+    <!-- 黑色 -->
+    <color name="black">#000000</color>
+    <color name="text_color_hint">#c5b295</color>
+
+    <!-- Button相关 -->
+    <color name="btn_bg_yellow">#FFCD00</color>
+    <color name="btn_bg_deep_yellow">#FE9900</color>
+    <color name="btn_bg_white">#FFFFFF</color>
+
+    <!-- 预约体验课 -->
+    <color name="bg_ty_yellow_deep">#FF8200</color>
+    <color name="bg_ty_gra_bestdeep">#474747</color>
+    <color name="bg_ty_gray_deep" >#e3e4e6</color>
+    <color name="bg_ty_gray" >#f7f7f7</color>
+    <color name="bg_ty_gray_deep2" >#c5c5c5</color>
+    <color name="bg_ty_text_deep" >#999999</color>
+    <color name="bg_ty_text_deep2" >#ADADAD</color>
+    
+      
+    <!-- PDF相关 -->
+	<color name="canvas">#FF404040</color>
+    <color name="bar">#C0202020</color>
+    
+   
+    
+    <!-- 体验课相关的颜色 start-->
+     <color name="cril">#09bdba</color>
+     <color name="rect_cril_leve1">#09bdba</color>
+     <color name="rect_cril_leve2">#00cebe</color>
+     <color name="rect_cril_leve3">#4abf71</color>
+     <color name="rect_cril_leve4">#ADBA36</color>
+     <color name="rect_cril_leve5">#D9A400</color>
+     <color name="rect_cril_leve6">#FF9E01</color>
+     <color name="text_level">#76c8bc</color>
+     <color name="text_hide">#323232</color>
+     <color name="view_backgroud">#e6e6e6</color>
+     <!-- 体验课相关的颜色 end-->
+
+</resources>
